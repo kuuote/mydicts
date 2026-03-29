@@ -1,6 +1,7 @@
 ; 逸般…ではなく一般辞書
 ;; okuri-ari entries.
 ;; okuri-nasi entries.
+empty /∅/
 いっぱん /逸般/
 かしゅうちゅう /過集中/
 かたけんしょう /型検証/
